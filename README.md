@@ -8,3 +8,8 @@ The DBMS is perhaps most useful for providing a centralized view of data that ca
 The DBMS can offer both logical and physical data independence. That means it can protect users and applications from needing to know where data is stored or having to be concerned about changes to the physical structure of data (storage and hardware). As long as programs use the application programming interface (API) for the database that is provided by the DBMS, developers won't have to modify programs just because changes have been made to the database.
 
 With relational DBMSs (RDBMSs), this API is SQL, a standard programming language for defining, protecting and accessing data in a RDBMS.
+
+!!!------------------------------------------------------------What is GIT------------------------------------------------------------!!!
+	############Git tutorials from 0##############
+ https://githowto.com/ru  
+ https://ru.atlassian.com/git/tutorials/what-is-git/
