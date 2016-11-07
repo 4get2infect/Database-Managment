@@ -9,7 +9,17 @@ The DBMS can offer both logical and physical data independence. That means it ca
 
 With relational DBMSs (RDBMSs), this API is SQL, a standard programming language for defining, protecting and accessing data in a RDBMS.
 
-!!!------------------------------------------------------------What is GIT------------------------------------------------------------!!!
-	############Git tutorials from 0##############
+!!!----------------------------------------What is GIT---------------------------------------------!!!
+
+**Git tutorials from 0**
+
  https://githowto.com/ru  
  https://ru.atlassian.com/git/tutorials/what-is-git/
+
+**_Hometask`s_**
+
+**I. Lecture DB history + GIT**
+1. Install linux(only for those who has only windows)
+2. Finish _git how to_ course
+3. Create Git Repository on github.com. Name it via YourName-DB-hometask
+4. Fork Repository https://github.com/deathliger666/Database-Managment
