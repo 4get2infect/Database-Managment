@@ -20,6 +20,9 @@ With relational DBMSs (RDBMSs), this API is SQL, a standard programming language
 
 **I. Lecture DB history + GIT**
 1. Install linux(only for those who has only windows)
+
 2. Finish _git how to_ course
+
 3. Create Git Repository on github.com. Name it via YourName-DB-hometask
+
 4. Fork Repository https://github.com/deathliger666/Database-Managment
