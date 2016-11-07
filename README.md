@@ -19,6 +19,7 @@ With relational DBMSs (RDBMSs), this API is SQL, a standard programming language
 **_Hometask`s_**
 
 **I. Lecture DB history + GIT**
+
 1. Install linux(only for those who has only windows)
 
 2. Finish _git how to_ course
